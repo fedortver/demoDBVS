@@ -4,5 +4,5 @@
     [PersonId] INT NOT NULL, 
     [StreetAddress] NVARCHAR(50) NULL, 
     [City] NVARCHAR(50) NULL, 
-    [ZipCode] NCHAR(10) NULL
+    [ZipCode] NCHAR(20) NULL
 )
